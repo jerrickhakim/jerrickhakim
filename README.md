@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jerrickhakim
+- Software is an escape. ctrl alt delete me.
