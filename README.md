@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jerrickhakim
-- Software is an escape. ctrl alt delete me.
+- Self Taught Full Stack Developer
+- clipreply.com boppr.com thriveific.com menuify.app
