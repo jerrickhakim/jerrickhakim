@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jerrickhakim
 - Self Taught Full Stack Developer
-- clipreply.com boppr.com thriveific.com menuify.app
+- boppr.com clipreply.com menuify.app thriveific.com
